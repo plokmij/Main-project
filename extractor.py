@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# A python script to automate extraction of large number of files and fetch its contents using fetcher script and delete the fetched 
+# archive to save from running out of disk space
 import os
 import sys
 
